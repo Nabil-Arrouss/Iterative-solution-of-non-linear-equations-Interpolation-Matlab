@@ -1,4 +1,4 @@
-# Non-Linear Equations and Interpolation Toolbox
+# Non-Linear Equations and Interpolation
 
 This repository contains MATLAB functions for solving non-linear equations and performing interpolation. The toolbox includes implementations of the bisection method, Newton interpolation, and drawing B-Splines for a given interval.
 
